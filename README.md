@@ -1,6 +1,7 @@
 # 🔍 Animated Search Button using HTML & CSS
 
-![Search Button Thumbnail]()
+![Screenshot 2025-08-01 120231.png](.Screenshot 2025-08-01 120231.png)
+
 
 🎥 **Watch on YouTube**: [How to Create an Animated Search Button | HTML CSS Tutorial]()
 

@@ -1,6 +1,6 @@
 # 🔍 Animated Search Button using HTML & CSS
 
-![Screenshot](Screenshot\ 2025-08-01\ 120231.png)
+![Screenshot](Preview.png)
 
 
 
